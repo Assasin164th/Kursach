@@ -1,0 +1,38 @@
+﻿<Window x:Class="FishFirm164.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Рыболовный магазин" Height="700" Width="1100"
+        WindowStartupLocation="CenterScreen"
+        Background="{DynamicResource MainBackground}"
+        Foreground="{DynamicResource TextForeground}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель -->
+        <Border Background="#1e1e1e" Padding="5">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock x:Name="txtUserInfo" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="White"/>
+                <Button x:Name="btnLogout" Content="Выйти" Width="80" Click="BtnLogout_Click"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Панель кнопок навигации -->
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="0,0,0,0" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Button x:Name="btnProducts" Content="Товары" Click="BtnProducts_Click" Margin="5"/>
+            <Button x:Name="btnSales" Content="Продажи" Click="BtnSales_Click" Margin="5"/>
+            <Button x:Name="btnPurchases" Content="Закупки" Click="BtnPurchases_Click" Margin="5"/>
+            <Button x:Name="btnCustomers" Content="Клиенты" Click="BtnCustomers_Click" Margin="5"/>
+            <Button x:Name="btnSuppliers" Content="Поставщики" Click="BtnSuppliers_Click" Margin="5"/>
+            <Button x:Name="btnUsers" Content="Пользователи" Click="BtnUsers_Click" Margin="5"/>
+            <Button x:Name="btnReports" Content="Отчёты" Click="BtnReports_Click" Margin="5"/>
+        </StackPanel>
+
+        <!-- Область вкладок -->
+        <TabControl x:Name="mainTabControl" Grid.Row="1" Margin="160,5,5,5" Background="{DynamicResource MainBackground}">
+            <!-- Вкладки будут добавляться динамически -->
+        </TabControl>
+    </Grid>
+</Window>
