@@ -367,5 +367,170 @@
       <End Role="Users" EntitySet="Users" />
       <End Role="Sales" EntitySet="Sales" />
     </AssociationSet>
+    <EntitySet Name="Boats" EntityType="FishFirm164Model.Boats" />
+    <EntitySet Name="Catch" EntityType="FishFirm164Model.Catch" />
+    <EntitySet Name="CrewMembers" EntityType="FishFirm164Model.CrewMembers" />
+    <EntitySet Name="FishingSpots" EntityType="FishFirm164Model.FishingSpots" />
+    <EntitySet Name="sysdiagrams" EntityType="FishFirm164Model.sysdiagrams" />
+    <EntitySet Name="TripCrew" EntityType="FishFirm164Model.TripCrew" />
+    <EntitySet Name="Trips" EntityType="FishFirm164Model.Trips" />
+    <AssociationSet Name="FK__Trips__BoatID__395884C4" Association="FishFirm164Model.FK__Trips__BoatID__395884C4">
+      <End Role="Boats" EntitySet="Boats" />
+      <End Role="Trips" EntitySet="Trips" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Catch__SpotID__40F9A68C" Association="FishFirm164Model.FK__Catch__SpotID__40F9A68C">
+      <End Role="FishingSpots" EntitySet="FishingSpots" />
+      <End Role="Catch" EntitySet="Catch" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Catch__TripID__40058253" Association="FishFirm164Model.FK__Catch__TripID__40058253">
+      <End Role="Trips" EntitySet="Trips" />
+      <End Role="Catch" EntitySet="Catch" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TripCrew__CrewMe__3D2915A8" Association="FishFirm164Model.FK__TripCrew__CrewMe__3D2915A8">
+      <End Role="CrewMembers" EntitySet="CrewMembers" />
+      <End Role="TripCrew" EntitySet="TripCrew" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TripCrew__TripID__3C34F16F" Association="FishFirm164Model.FK__TripCrew__TripID__3C34F16F">
+      <End Role="Trips" EntitySet="Trips" />
+      <End Role="TripCrew" EntitySet="TripCrew" />
+    </AssociationSet>
   </EntityContainer>
+  <EntityType Name="Boats">
+    <Key>
+      <PropertyRef Name="BoatID" />
+    </Key>
+    <Property Name="BoatID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BoatName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="BoatType" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Displacement" Type="Decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="BuildDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Trips" Relationship="FishFirm164Model.FK__Trips__BoatID__395884C4" FromRole="Boats" ToRole="Trips" />
+  </EntityType>
+  <EntityType Name="Catch">
+    <Key>
+      <PropertyRef Name="CatchID" />
+    </Key>
+    <Property Name="CatchID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TripID" Type="Int32" Nullable="false" />
+    <Property Name="SpotID" Type="Int32" Nullable="false" />
+    <Property Name="FishType" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Weight" Type="Decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="Quality" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="ArrivalDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DepartureDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="FishingSpots" Relationship="FishFirm164Model.FK__Catch__SpotID__40F9A68C" FromRole="Catch" ToRole="FishingSpots" />
+    <NavigationProperty Name="Trips" Relationship="FishFirm164Model.FK__Catch__TripID__40058253" FromRole="Catch" ToRole="Trips" />
+  </EntityType>
+  <EntityType Name="CrewMembers">
+    <Key>
+      <PropertyRef Name="CrewMemberID" />
+    </Key>
+    <Property Name="CrewMemberID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Position" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TripCrew" Relationship="FishFirm164Model.FK__TripCrew__CrewMe__3D2915A8" FromRole="CrewMembers" ToRole="TripCrew" />
+  </EntityType>
+  <EntityType Name="FishingSpots">
+    <Key>
+      <PropertyRef Name="SpotID" />
+    </Key>
+    <Property Name="SpotID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SpotName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Coordinates" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Catch" Relationship="FishFirm164Model.FK__Catch__SpotID__40F9A68C" FromRole="FishingSpots" ToRole="Catch" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TripCrew">
+    <Key>
+      <PropertyRef Name="TripCrewID" />
+    </Key>
+    <Property Name="TripCrewID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TripID" Type="Int32" Nullable="false" />
+    <Property Name="CrewMemberID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CrewMembers" Relationship="FishFirm164Model.FK__TripCrew__CrewMe__3D2915A8" FromRole="TripCrew" ToRole="CrewMembers" />
+    <NavigationProperty Name="Trips" Relationship="FishFirm164Model.FK__TripCrew__TripID__3C34F16F" FromRole="TripCrew" ToRole="Trips" />
+  </EntityType>
+  <EntityType Name="Trips">
+    <Key>
+      <PropertyRef Name="TripID" />
+    </Key>
+    <Property Name="TripID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BoatID" Type="Int32" Nullable="false" />
+    <Property Name="DepartureDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ReturnDate" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Boats" Relationship="FishFirm164Model.FK__Trips__BoatID__395884C4" FromRole="Trips" ToRole="Boats" />
+    <NavigationProperty Name="Catch" Relationship="FishFirm164Model.FK__Catch__TripID__40058253" FromRole="Trips" ToRole="Catch" />
+    <NavigationProperty Name="TripCrew" Relationship="FishFirm164Model.FK__TripCrew__TripID__3C34F16F" FromRole="Trips" ToRole="TripCrew" />
+  </EntityType>
+  <Association Name="FK__Trips__BoatID__395884C4">
+    <End Type="FishFirm164Model.Boats" Role="Boats" Multiplicity="1" />
+    <End Type="FishFirm164Model.Trips" Role="Trips" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Boats">
+        <PropertyRef Name="BoatID" />
+      </Principal>
+      <Dependent Role="Trips">
+        <PropertyRef Name="BoatID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Catch__SpotID__40F9A68C">
+    <End Type="FishFirm164Model.FishingSpots" Role="FishingSpots" Multiplicity="1" />
+    <End Type="FishFirm164Model.Catch" Role="Catch" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FishingSpots">
+        <PropertyRef Name="SpotID" />
+      </Principal>
+      <Dependent Role="Catch">
+        <PropertyRef Name="SpotID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Catch__TripID__40058253">
+    <End Type="FishFirm164Model.Trips" Role="Trips" Multiplicity="1" />
+    <End Type="FishFirm164Model.Catch" Role="Catch" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Trips">
+        <PropertyRef Name="TripID" />
+      </Principal>
+      <Dependent Role="Catch">
+        <PropertyRef Name="TripID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TripCrew__CrewMe__3D2915A8">
+    <End Type="FishFirm164Model.CrewMembers" Role="CrewMembers" Multiplicity="1" />
+    <End Type="FishFirm164Model.TripCrew" Role="TripCrew" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CrewMembers">
+        <PropertyRef Name="CrewMemberID" />
+      </Principal>
+      <Dependent Role="TripCrew">
+        <PropertyRef Name="CrewMemberID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TripCrew__TripID__3C34F16F">
+    <End Type="FishFirm164Model.Trips" Role="Trips" Multiplicity="1" />
+    <End Type="FishFirm164Model.TripCrew" Role="TripCrew" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Trips">
+        <PropertyRef Name="TripID" />
+      </Principal>
+      <Dependent Role="TripCrew">
+        <PropertyRef Name="TripID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
 </Schema>

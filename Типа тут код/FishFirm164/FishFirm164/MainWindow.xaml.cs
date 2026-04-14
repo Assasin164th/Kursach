@@ -1,4 +1,7 @@
-﻿using System;
+﻿using FishFirm164;
+using FishFirm164.classes;
+using FishFirm164.Controls;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,8 +14,6 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-using FishFirm164;
-using FishFirm164.classes;
 
 namespace FishFirm164
 {
@@ -20,6 +21,8 @@ namespace FishFirm164
     {
         private int userId;
         private string userRole;
+        private ShopControl shopControl;
+        private FleetControl fleetControl;
 
         public MainWindow()
         {
@@ -33,95 +36,33 @@ namespace FishFirm164
             userRole = role;
             txtUserInfo.Text = $"{name} ({role})";
 
-            // Настройка видимости кнопок в зависимости от роли
-            bool isAdmin = (role == "Admin");
-            bool isManager = (role == "Manager");
-            bool isDirector = (role == "Director");
-            bool isStorekeeper = (role == "Storekeeper");
-            bool isCashier = (role == "Cashier");
-            bool isGuest = (role == "Guest");
+            shopControl = new ShopControl(userId, userRole);
+            fleetControl = new FleetControl(userId, userRole);
 
-            btnProducts.Visibility = Visibility.Visible;
-
-            btnSales.Visibility = (isCashier || isManager || isAdmin || isDirector) ? Visibility.Visible : Visibility.Collapsed;
-
-            btnPurchases.Visibility = (isStorekeeper || isManager || isAdmin || isDirector) ? Visibility.Visible : Visibility.Collapsed;
-
-            btnCustomers.Visibility = (!isGuest) ? Visibility.Visible : Visibility.Collapsed;
-
-            btnSuppliers.Visibility = (isManager || isAdmin || isDirector || isStorekeeper) ? Visibility.Visible : Visibility.Collapsed;
-
-            btnUsers.Visibility = isAdmin ? Visibility.Visible : Visibility.Collapsed;
-
-            btnReports.Visibility = (isDirector || isAdmin || isManager) ? Visibility.Visible : Visibility.Collapsed;
+            // Принудительно находим mainContent
+            var contentControl = this.FindName("mainContent") as ContentControl;
+            if (contentControl != null)
+                contentControl.Content = shopControl;
+            else
+                MessageBox.Show("Ошибка: mainContent не найден. Проверьте XAML.", "Критическая ошибка");
         }
 
-        private void OpenTab(string header, UserControl content)
+        private void RbShop_Checked(object sender, RoutedEventArgs e)
         {
-            foreach (TabItem item in mainTabControl.Items)
-            {
-                if (item.Header.ToString() == header)
-                {
-                    item.IsSelected = true;
-                    return;
-                }
-            }
-            TabItem newTab = new TabItem
-            {
-                Header = header,
-                Content = content
-            };
-            mainTabControl.Items.Add(newTab);
-            newTab.IsSelected = true;
+            var contentControl = this.FindName("mainContent") as ContentControl;
+            if (contentControl != null) contentControl.Content = shopControl;
         }
 
-        private void BtnProducts_Click(object sender, RoutedEventArgs e)
+        private void RbFleet_Checked(object sender, RoutedEventArgs e)
         {
-            var control = new ProductsControl(userId, userRole);
-            OpenTab("Товары", control);
-        }
-
-        private void BtnSales_Click(object sender, RoutedEventArgs e)
-        {
-            var control = new SalesControl(userId, userRole);
-            OpenTab("Продажи", control);
-        }
-
-        private void BtnPurchases_Click(object sender, RoutedEventArgs e)
-        {
-            var control = new PurchasesControl(userId, userRole);
-            OpenTab("Закупки", control);
-        }
-
-        private void BtnCustomers_Click(object sender, RoutedEventArgs e)
-        {
-            var control = new CustomersControl(userId, userRole);
-            OpenTab("Клиенты", control);
-        }
-
-        private void BtnSuppliers_Click(object sender, RoutedEventArgs e)
-        {
-            var control = new SuppliersControl(userId, userRole);
-            OpenTab("Поставщики", control);
-        }
-
-        private void BtnUsers_Click(object sender, RoutedEventArgs e)
-        {
-            var control = new UsersControl(userId, userRole);
-            OpenTab("Пользователи", control);
-        }
-
-        private void BtnReports_Click(object sender, RoutedEventArgs e)
-        {
-            var control = new ReportsControl(userId, userRole);
-            OpenTab("Отчёты", control);
+            var contentControl = this.FindName("mainContent") as ContentControl;
+            if (contentControl != null) contentControl.Content = fleetControl;
         }
 
         private void BtnLogout_Click(object sender, RoutedEventArgs e)
         {
-            LoginWindow login = new LoginWindow();
-            login.Show();
-            this.Close();
+            new LoginWindow().Show();
+            Close();
         }
     }
 }

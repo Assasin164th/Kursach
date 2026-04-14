@@ -30,6 +30,18 @@
         <AssociationConnector Association="FishFirm164Model.FK__Users__RoleID__7E37BEF6" ManuallyRouted="false" />
         <AssociationConnector Association="FishFirm164Model.FK__SaleItems__SaleI__18EBB532" ManuallyRouted="false" />
         <AssociationConnector Association="FishFirm164Model.FK__Sales__UserID__160F4887" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="FishFirm164Model.Boats" Width="1.5" PointX="8.375" PointY="10.875" />
+        <EntityTypeShape EntityType="FishFirm164Model.Catch" Width="1.5" PointX="12.875" PointY="10.5" />
+        <EntityTypeShape EntityType="FishFirm164Model.CrewMembers" Width="1.5" PointX="13.625" PointY="6.875" />
+        <EntityTypeShape EntityType="FishFirm164Model.FishingSpots" Width="1.5" PointX="10.625" PointY="8" />
+        <EntityTypeShape EntityType="FishFirm164Model.sysdiagrams" Width="1.5" PointX="5.375" PointY="8.75" />
+        <EntityTypeShape EntityType="FishFirm164Model.TripCrew" Width="1.5" PointX="15.875" PointY="11" />
+        <EntityTypeShape EntityType="FishFirm164Model.Trips" Width="1.5" PointX="10.625" PointY="10.75" />
+        <AssociationConnector Association="FishFirm164Model.FK__Trips__BoatID__395884C4" />
+        <AssociationConnector Association="FishFirm164Model.FK__Catch__SpotID__40F9A68C" />
+        <AssociationConnector Association="FishFirm164Model.FK__Catch__TripID__40058253" />
+        <AssociationConnector Association="FishFirm164Model.FK__TripCrew__CrewMe__3D2915A8" />
+        <AssociationConnector Association="FishFirm164Model.FK__TripCrew__TripID__3C34F16F" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Last Guardian\source\repos\FishFirm164\FishFirm164\App.xaml
-18-1887357657
+30-902529815
 2-1957146511
-40326859047
+59789953999
 18-1643943017
-CustomerEditWindow.xaml;CustomersControl.xaml;DarkTheme.xaml;LoginWindow.xaml;MainWindow.xaml;ProductEditWindow.xaml;ProductsControl.xaml;PurchaseEditWindow.xaml;PurchasesControl.xaml;ReportsControl.xaml;SaleEditWindow.xaml;SalesControl.xaml;SelectProductsForPurchaseWindow.xaml;SelectProductsWindow.xaml;SupplierEditWindow.xaml;SuppliersControl.xaml;UserEditWindow.xaml;UsersControl.xaml;
+BoatEditWindow.xaml;CatchEditWindow.xaml;Controls\BoatsControl.xaml;Controls\CatchControl.xaml;Controls\CrewControl.xaml;Controls\FishingSpotsControl.xaml;Controls\FleetControl.xaml;Controls\ShopControl.xaml;Controls\TripsControl.xaml;CrewEditWindow.xaml;CustomerEditWindow.xaml;Controls\CustomersControl.xaml;DarkTheme.xaml;FishingSpotEditWindow.xaml;LoginWindow.xaml;MainWindow.xaml;ProductEditWindow.xaml;Controls\ProductsControl.xaml;PurchaseEditWindow.xaml;Controls\PurchasesControl.xaml;Controls\ReportsControl.xaml;SaleEditWindow.xaml;Controls\SalesControl.xaml;SelectProductsForPurchaseWindow.xaml;SelectProductsWindow.xaml;SupplierEditWindow.xaml;Controls\SuppliersControl.xaml;TripEditWindow.xaml;UserEditWindow.xaml;Controls\UsersControl.xaml;
 
 False
 

@@ -3,6 +3,122 @@
   "WorkspaceRootPath": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\controls\\boatscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\boatscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\crewmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\crewmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\tripeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\tripeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\creweditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\creweditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\fishingspoteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\fishingspoteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\fishingspoteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\fishingspoteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\creweditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\creweditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\catcheditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\catcheditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\tripeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\tripeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\fleetcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\fleetcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\fleetcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\fleetcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\shopcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\shopcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\catcheditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\catcheditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\crewcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\crewcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\catchcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\catchcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\tripscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\tripscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\tripscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\tripscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\fishingspotscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\fishingspotscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\fishingspotscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\fishingspotscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\boateditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\boateditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\boateditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\boateditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\boatscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\boatscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\crewcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\crewcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\reportscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\reportscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\purchaseeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\purchaseeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\controls\\shopcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\controls\\shopcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\SalesControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\selectproductsforpurchasewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\selectproductsforpurchasewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
@@ -19,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\saleeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\salescontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\salescontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\saleeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\saleeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -31,44 +143,12 @@
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\selectproductswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\salescontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\salescontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\purchaseeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\purchaseeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\purchaseeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\purchaseeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|c:\\users\\last guardian\\source\\repos\\fishfirm164\\fishfirm164\\userscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\userscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\supplierscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\supplierscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\usereditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\usereditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\reportscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\reportscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\purchasescontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\purchasescontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\productscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\productscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,10 +163,6 @@
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\customereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\reportscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\reportscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,36 +175,8 @@
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\purchasescontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\purchasescontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\userscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\userscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\supplierscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\supplierscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\customerscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\customerscontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\suppliereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\suppliereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\productscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\productscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\customerscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\customerscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\selectproductsforpurchasewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -153,6 +201,58 @@
     {
       "AbsoluteMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\fishfirm164\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{80DE80EF-20DE-4EAC-9644-4330D37290FD}|FishFirm164\\FishFirm164.csproj|solutionrelative:fishfirm164\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\SalesControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\UsersControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\PurchasesControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\SuppliersControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\CustomersControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\CustomersControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\SuppliersControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductsControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\ProductsControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\ReportsControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\PurchasesControl.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\UsersControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\ReportsControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductsControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishFirm164\\ProductsControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,7 +262,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,108 +270,308 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SalesControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\SalesControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\SalesControl.xaml.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:40:46.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SaleEditWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SaleEditWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\SaleEditWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SaleEditWindow.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\SaleEditWindow.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAawCoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:42:33.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SaleEditWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SaleEditWindow.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\SaleEditWindow.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SaleEditWindow.xaml",
-              "RelativeToolTip": "FishFirm164\\SaleEditWindow.xaml",
+              "DocumentIndex": 8,
+              "Title": "CrewEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CrewEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\CrewEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CrewEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\CrewEditWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T19:41:19.855Z",
+              "WhenOpened": "2026-04-14T20:13:52.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SelectProductsWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsWindow.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\SelectProductsWindow.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsWindow.xaml",
-              "RelativeToolTip": "FishFirm164\\SelectProductsWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T19:44:34.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SelectProductsWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\SelectProductsWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsWindow.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\SelectProductsWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Title": "FishingSpotEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\FishingSpotEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\FishingSpotEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\FishingSpotEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\FishingSpotEditWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:48:29.29Z",
+              "WhenOpened": "2026-04-14T20:38:27.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SelectProductsForPurchaseWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsForPurchaseWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\SelectProductsForPurchaseWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsForPurchaseWindow.xaml.cs*",
-              "RelativeToolTip": "FishFirm164\\SelectProductsForPurchaseWindow.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CrewEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CrewEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\CrewEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CrewEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\CrewEditWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:08:09.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\SalesControl.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml",
-              "RelativeToolTip": "FishFirm164\\SalesControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T19:39:42.552Z",
+              "WhenOpened": "2026-04-14T20:14:36.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SupplierEditWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SupplierEditWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\SupplierEditWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SupplierEditWindow.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\SupplierEditWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:09:49.921Z",
+              "Title": "BoatsControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\BoatsControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\BoatsControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\BoatsControl.xaml",
+              "RelativeToolTip": "FishFirm164\\Controls\\BoatsControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T10:21:55.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "TripEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\TripEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\TripEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\TripEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\TripEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T20:39:18.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\MainWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T14:30:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:31:46.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatchEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CatchEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\CatchEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CatchEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\CatchEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T20:45:37.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FishingSpotEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\FishingSpotEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\FishingSpotEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\FishingSpotEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\FishingSpotEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T20:46:41.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TripEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\TripEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\TripEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\TripEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\TripEditWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAtwDAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:39:22.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FleetControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\FleetControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\FleetControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\FleetControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\Controls\\FleetControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T19:38:37.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrewMembers.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CrewMembers.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\CrewMembers.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CrewMembers.cs",
+              "RelativeToolTip": "FishFirm164\\CrewMembers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:53:05.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CatchEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CatchEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\CatchEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CatchEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\CatchEditWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:41:15.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CatchControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\CatchControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\CatchControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\CatchControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\Controls\\CatchControl.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:37:06.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TripsControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\TripsControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\TripsControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\TripsControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\Controls\\TripsControl.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:38:54.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\ShopControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\ShopControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\ShopControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\Controls\\ShopControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:25:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TripsControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\TripsControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\TripsControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\TripsControl.xaml",
+              "RelativeToolTip": "FishFirm164\\Controls\\TripsControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T20:38:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FleetControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\FleetControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\FleetControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\FleetControl.xaml",
+              "RelativeToolTip": "FishFirm164\\Controls\\FleetControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T19:38:12.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FishingSpotsControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\FishingSpotsControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\FishingSpotsControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\FishingSpotsControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\Controls\\FishingSpotsControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:38:03.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FishingSpotsControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\FishingSpotsControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\FishingSpotsControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\FishingSpotsControl.xaml",
+              "RelativeToolTip": "FishFirm164\\Controls\\FishingSpotsControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T20:38:00.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrewControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\CrewControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\CrewControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\CrewControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\Controls\\CrewControl.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:13:19.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BoatEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\BoatEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\BoatEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\BoatEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\BoatEditWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:36:47.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BoatEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\BoatEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\BoatEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\BoatEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\BoatEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T20:36:45.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReportsControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\ReportsControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\ReportsControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\ReportsControl.xaml",
+              "RelativeToolTip": "FishFirm164\\Controls\\ReportsControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T20:31:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "PurchaseEditWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchaseEditWindow.xaml",
               "RelativeDocumentMoniker": "FishFirm164\\PurchaseEditWindow.xaml",
@@ -283,278 +583,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsersControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\UsersControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\UsersControl.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAawCcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:11:24.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "SelectProductsForPurchaseWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsForPurchaseWindow.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\SelectProductsForPurchaseWindow.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsForPurchaseWindow.xaml",
-              "RelativeToolTip": "FishFirm164\\SelectProductsForPurchaseWindow.xaml",
+              "DocumentIndex": 27,
+              "Title": "ShopControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\ShopControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\ShopControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\ShopControl.xaml",
+              "RelativeToolTip": "FishFirm164\\Controls\\ShopControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:07:44.613Z"
+              "WhenOpened": "2026-04-14T20:25:20.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "PurchasesControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\PurchasesControl.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml",
-              "RelativeToolTip": "FishFirm164\\PurchasesControl.xaml",
+              "Title": "CrewControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\CrewControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\CrewControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\CrewControl.xaml",
+              "RelativeToolTip": "FishFirm164\\Controls\\CrewControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:05:27.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UserEditWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UserEditWindow.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\UserEditWindow.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UserEditWindow.xaml",
-              "RelativeToolTip": "FishFirm164\\UserEditWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:11:40.234Z"
+              "WhenOpened": "2026-04-14T20:12:52.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "DarkTheme.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\DarkTheme.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\DarkTheme.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\DarkTheme.xaml",
-              "RelativeToolTip": "FishFirm164\\DarkTheme.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:20:05.785Z",
+              "Title": "BoatsControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\BoatsControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\Controls\\BoatsControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Controls\\BoatsControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\Controls\\BoatsControl.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:22:42.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ThemedWindow.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\classes\\ThemedWindow.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\classes\\ThemedWindow.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\classes\\ThemedWindow.cs",
-              "RelativeToolTip": "FishFirm164\\classes\\ThemedWindow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:35:50.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PurchaseEditWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchaseEditWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\PurchaseEditWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchaseEditWindow.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\PurchaseEditWindow.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAawCMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:07:14.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SupplierEditWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SupplierEditWindow.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\SupplierEditWindow.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SupplierEditWindow.xaml",
-              "RelativeToolTip": "FishFirm164\\SupplierEditWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:09:16.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SuppliersControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\SuppliersControl.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml",
-              "RelativeToolTip": "FishFirm164\\SuppliersControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:08:27.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CustomersControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\CustomersControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\CustomersControl.xaml.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAuwEAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:49:32.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CustomersControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\CustomersControl.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml",
-              "RelativeToolTip": "FishFirm164\\CustomersControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T19:49:02.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SuppliersControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\SuppliersControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\SuppliersControl.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:08:59.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserEditWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UserEditWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\UserEditWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UserEditWindow.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\UserEditWindow.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDcAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:12:08.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductsControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductsControl.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\ProductsControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductsControl.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\ProductsControl.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:38:25.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\MainWindow.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T14:31:46.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T13:49:18.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CustomerEditWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomerEditWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\CustomerEditWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomerEditWindow.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\CustomerEditWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:50:42.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CustomerEditWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomerEditWindow.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\CustomerEditWindow.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomerEditWindow.xaml",
-              "RelativeToolTip": "FishFirm164\\CustomerEditWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T19:50:10.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ReportsControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\ReportsControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\ReportsControl.xaml.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:12:44.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PurchasesControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml.cs",
-              "RelativeDocumentMoniker": "FishFirm164\\PurchasesControl.xaml.cs",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml.cs",
-              "RelativeToolTip": "FishFirm164\\PurchasesControl.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T20:05:52.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\App.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\App.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\App.xaml",
-              "RelativeToolTip": "FishFirm164\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:33:08.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UsersControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\UsersControl.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml",
-              "RelativeToolTip": "FishFirm164\\UsersControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:10:53.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ReportsControl.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\ReportsControl.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml",
-              "RelativeToolTip": "FishFirm164\\ReportsControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-08T20:12:25.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 40,
               "Title": "Suppliers.cs",
               "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\Suppliers.cs",
               "RelativeDocumentMoniker": "FishFirm164\\Suppliers.cs",
@@ -566,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 62,
               "Title": "ProductsControl.xaml",
               "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductsControl.xaml",
               "RelativeDocumentMoniker": "FishFirm164\\ProductsControl.xaml",
@@ -577,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "ProductEditWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductEditWindow.xaml.cs",
               "RelativeDocumentMoniker": "FishFirm164\\ProductEditWindow.xaml.cs",
@@ -589,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 49,
               "Title": "ProductEditWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductEditWindow.xaml",
               "RelativeDocumentMoniker": "FishFirm164\\ProductEditWindow.xaml",
@@ -600,25 +666,363 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "FishFirm164\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\MainWindow.xaml",
-              "RelativeToolTip": "FishFirm164\\MainWindow.xaml",
+              "DocumentIndex": 31,
+              "Title": "SupplierEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SupplierEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\SupplierEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SupplierEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\SupplierEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:09:49.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SaleEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SaleEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\SaleEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SaleEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\SaleEditWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-05T14:30:37.929Z"
+              "WhenOpened": "2026-04-08T19:41:19.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SelectProductsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\SelectProductsWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\SelectProductsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T19:44:34.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SelectProductsForPurchaseWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsForPurchaseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\SelectProductsForPurchaseWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsForPurchaseWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\SelectProductsForPurchaseWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:08:09.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SaleEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SaleEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\SaleEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SaleEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\SaleEditWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawCoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:42:33.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SalesControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\SalesControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\SalesControl.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:40:46.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SalesControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\SalesControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SalesControl.xaml",
+              "RelativeToolTip": "FishFirm164\\SalesControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T19:39:42.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SelectProductsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\SelectProductsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\SelectProductsWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:48:29.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ReportsControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\ReportsControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml",
+              "RelativeToolTip": "FishFirm164\\ReportsControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:12:25.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UsersControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\UsersControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\UsersControl.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:11:24.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SelectProductsForPurchaseWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsForPurchaseWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\SelectProductsForPurchaseWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SelectProductsForPurchaseWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\SelectProductsForPurchaseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:07:44.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PurchasesControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\PurchasesControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml",
+              "RelativeToolTip": "FishFirm164\\PurchasesControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:05:27.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UserEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\UserEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UserEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\UserEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:11:40.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\DarkTheme.xaml",
+              "RelativeToolTip": "FishFirm164\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:20:05.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ThemedWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\classes\\ThemedWindow.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\classes\\ThemedWindow.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\classes\\ThemedWindow.cs",
+              "RelativeToolTip": "FishFirm164\\classes\\ThemedWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:35:50.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PurchaseEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchaseEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\PurchaseEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchaseEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\PurchaseEditWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:07:14.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SupplierEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SupplierEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\SupplierEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SupplierEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\SupplierEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:09:16.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SuppliersControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\SuppliersControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml",
+              "RelativeToolTip": "FishFirm164\\SuppliersControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:08:27.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomersControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\CustomersControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\CustomersControl.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:49:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CustomersControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\CustomersControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomersControl.xaml",
+              "RelativeToolTip": "FishFirm164\\CustomersControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T19:49:02.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SuppliersControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\SuppliersControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\SuppliersControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\SuppliersControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:08:59.802Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "UserEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UserEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\UserEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UserEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\UserEditWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:12:08.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductsControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductsControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\ProductsControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ProductsControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\ProductsControl.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:38:25.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:49:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomerEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomerEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\CustomerEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomerEditWindow.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\CustomerEditWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:50:42.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomerEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomerEditWindow.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\CustomerEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\CustomerEditWindow.xaml",
+              "RelativeToolTip": "FishFirm164\\CustomerEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T19:50:10.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ReportsControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\ReportsControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\ReportsControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\ReportsControl.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:12:44.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PurchasesControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml.cs",
+              "RelativeDocumentMoniker": "FishFirm164\\PurchasesControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\PurchasesControl.xaml.cs",
+              "RelativeToolTip": "FishFirm164\\PurchasesControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:05:52.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\App.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\App.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\App.xaml",
+              "RelativeToolTip": "FishFirm164\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:33:08.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UsersControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml",
+              "RelativeDocumentMoniker": "FishFirm164\\UsersControl.xaml",
+              "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\UsersControl.xaml",
+              "RelativeToolTip": "FishFirm164\\UsersControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T20:10:53.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "FishFirm164\\LoginWindow.xaml",
               "ToolTip": "C:\\Users\\Last Guardian\\source\\repos\\FishFirm164\\FishFirm164\\LoginWindow.xaml",
               "RelativeToolTip": "FishFirm164\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-05T13:48:43.11Z"
+              "WhenOpened": "2026-04-05T13:48:43.11Z",
+              "EditorCaption": ""
             }
           ]
         }

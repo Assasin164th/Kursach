@@ -38,5 +38,12 @@ namespace FishFirm164
         public virtual DbSet<SiteImages> SiteImages { get; set; }
         public virtual DbSet<Suppliers> Suppliers { get; set; }
         public virtual DbSet<Users> Users { get; set; }
+        public virtual DbSet<Boats> Boats { get; set; }
+        public virtual DbSet<Catch> Catch { get; set; }
+        public virtual DbSet<CrewMembers> CrewMembers { get; set; }
+        public virtual DbSet<FishingSpots> FishingSpots { get; set; }
+        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
+        public virtual DbSet<TripCrew> TripCrew { get; set; }
+        public virtual DbSet<Trips> Trips { get; set; }
     }
 }

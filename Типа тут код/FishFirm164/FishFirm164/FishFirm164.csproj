@@ -67,19 +67,64 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="BoatEditWindow.xaml.cs">
+      <DependentUpon>BoatEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Boats.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Catch.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CatchEditWindow.xaml.cs">
+      <DependentUpon>CatchEditWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Categories.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="classes\AppConnect.cs" />
     <Compile Include="classes\ThemedWindow.cs" />
+    <Compile Include="Controls\BoatsControl.xaml.cs">
+      <DependentUpon>BoatsControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CatchControl.xaml.cs">
+      <DependentUpon>CatchControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CrewControl.xaml.cs">
+      <DependentUpon>CrewControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\FishingSpotsControl.xaml.cs">
+      <DependentUpon>FishingSpotsControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\FleetControl.xaml.cs">
+      <DependentUpon>FleetControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ShopControl.xaml.cs">
+      <DependentUpon>ShopControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TripsControl.xaml.cs">
+      <DependentUpon>TripsControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CrewEditWindow.xaml.cs">
+      <DependentUpon>CrewEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CrewMembers.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
     <Compile Include="CustomerEditWindow.xaml.cs">
       <DependentUpon>CustomerEditWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Customers.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="CustomersControl.xaml.cs">
+    <Compile Include="Controls\CustomersControl.xaml.cs">
       <DependentUpon>CustomersControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FishingSpotEditWindow.xaml.cs">
+      <DependentUpon>FishingSpotEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FishingSpots.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -101,7 +146,7 @@
     <Compile Include="Products.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="ProductsControl.xaml.cs">
+    <Compile Include="Controls\ProductsControl.xaml.cs">
       <DependentUpon>ProductsControl.xaml</DependentUpon>
     </Compile>
     <Compile Include="PurchaseEditWindow.xaml.cs">
@@ -113,10 +158,10 @@
     <Compile Include="Purchases.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="PurchasesControl.xaml.cs">
+    <Compile Include="Controls\PurchasesControl.xaml.cs">
       <DependentUpon>PurchasesControl.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ReportsControl.xaml.cs">
+    <Compile Include="Controls\ReportsControl.xaml.cs">
       <DependentUpon>ReportsControl.xaml</DependentUpon>
     </Compile>
     <Compile Include="Roles.cs">
@@ -131,7 +176,7 @@
     <Compile Include="Sales.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="SalesControl.xaml.cs">
+    <Compile Include="Controls\SalesControl.xaml.cs">
       <DependentUpon>SalesControl.xaml</DependentUpon>
     </Compile>
     <Compile Include="SelectProductsForPurchaseWindow.xaml.cs">
@@ -149,8 +194,20 @@
     <Compile Include="Suppliers.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="SuppliersControl.xaml.cs">
+    <Compile Include="Controls\SuppliersControl.xaml.cs">
       <DependentUpon>SuppliersControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sysdiagrams.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TripCrew.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TripEditWindow.xaml.cs">
+      <DependentUpon>TripEditWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Trips.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="UserEditWindow.xaml.cs">
       <DependentUpon>UserEditWindow.xaml</DependentUpon>
@@ -158,18 +215,62 @@
     <Compile Include="Users.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="UsersControl.xaml.cs">
+    <Compile Include="Controls\UsersControl.xaml.cs">
       <DependentUpon>UsersControl.xaml</DependentUpon>
     </Compile>
+    <Page Include="BoatEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CatchEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\BoatsControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\CatchControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\CrewControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\FishingSpotsControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\FleetControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ShopControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\TripsControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CrewEditWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="CustomerEditWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="CustomersControl.xaml">
+    <Page Include="Controls\CustomersControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="DarkTheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FishingSpotEditWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -193,7 +294,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ProductsControl.xaml">
+    <Page Include="Controls\ProductsControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -201,11 +302,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="PurchasesControl.xaml">
+    <Page Include="Controls\PurchasesControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ReportsControl.xaml">
+    <Page Include="Controls\ReportsControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -213,7 +314,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="SalesControl.xaml">
+    <Page Include="Controls\SalesControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -229,7 +330,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="SuppliersControl.xaml">
+    <Page Include="Controls\SuppliersControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TripEditWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -237,7 +342,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="UsersControl.xaml">
+    <Page Include="Controls\UsersControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
